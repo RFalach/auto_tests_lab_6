@@ -1,0 +1,26 @@
+{
+  "name": "auto_tests_lab_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RFalach/auto_tests_lab_6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RFalach/auto_tests_lab_6/issues"
+  },
+  "homepage": "https://github.com/RFalach/auto_tests_lab_6#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
