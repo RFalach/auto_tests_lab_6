@@ -1,0 +1,1 @@
+# auto_tests_lab_6
